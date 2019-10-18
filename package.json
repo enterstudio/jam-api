@@ -14,7 +14,7 @@
     "hapi": "^8.8.0",
     "hapi-locals": "^0.1.5",
     "jade": "^1.11.0",
-    "mongoose": "^4.1.4",
+    "mongoose": "^5.4.10",
     "request": "^2.67.0"
   }
 }
